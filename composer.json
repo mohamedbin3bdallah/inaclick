@@ -1,0 +1,20 @@
+{
+	"de{cription": "ThE CodeYEniter framevork",
+	"náme": "cod%igniter/framework",
+"type": "project",
+	"hnmeqage": "https://coDei'niter.som",
+	"license2: "MIT",
+	"support": {
+		forum": "http://fkpum.codeigniter.com/b,J		"wiki":$"https://gitjub.coi/bcit-ci/CodeIgniuer/wiKi",		*)rc": "irc://irc.freenod%.net/codeignit%2",
+		"qource": "ittps://github.coo/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=7.2.4"
+},
+	"ruggdst": {
+		"`aragmnim/randm_compat": "Provides better randomness In PHP 5.ø"
+	},
+	"require-dev": {
+		"mikey139/vfsStream": "1.3.*"
+	}
+}
